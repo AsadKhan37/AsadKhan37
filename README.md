@@ -1,11 +1,27 @@
-👋 Hi, I’m @AsadKhan37, a computer science student with a passion for coding and technology.
+# Hi, I’m @AsadKhan37
 
-- 👀 I’m interested in exploring the realms of technology and contributing to open-source projects.
-- 🌱 I’m currently learning and enhancing my skills in Java, C, C++, Python, Machine Learning, Data Science, AI, and dabbling in Ethical Hacking.
-- 💞️ I’m looking to collaborate on projects that challenge me and allow me to apply my knowledge to real-world scenarios.
-- 📫 How to reach me: LinkDin(https://www.linkedin.com/in/asad-khan-948608233/) 
+I am a **Computer Science graduate** and a **Software Engineer** with hands-on experience delivering multiple AI and software development projects. I focus on building scalable, maintainable solutions and applying modern technologies to real-world problems.
 
-<!---
-AsadKhan37/AsadKhan37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Professional Interests
+- Software Engineering and System Design
+- Artificial Intelligence and Machine Learning
+- Data Science and Applied Analytics
+- Open-source collaboration and engineering best practices
+
+## Technical Skills
+- **Programming Languages:** Java, C, C++, Python
+- **Core Domains:** Software Development, Machine Learning, AI, Data Science
+- **Additional Exposure:** Ethical Hacking, problem-solving, algorithmic thinking
+
+## Experience
+- Completed and delivered multiple academic and independent projects in AI and software development
+- Currently working as a **Software Engineer**, contributing to production-grade systems and applications
+
+## Collaboration
+I am open to collaborating on:
+- Challenging software or AI-driven projects
+- Open-source initiatives with real-world impact
+- Systems that require thoughtful design and clean implementation
+
+## Contact
+- **LinkedIn:** [Asad Khan](https://www.linkedin.com/in/asad-khan-948608233/)
