@@ -1,4 +1,4 @@
-# Hi, I’m @AsadKhan37
+# Hi, I’m @Asad Khan
 
 I am a **Computer Science graduate** and a **Software Engineer** with hands-on experience delivering multiple AI and software development projects. I focus on building scalable, maintainable solutions and applying modern technologies to real-world problems.
 
